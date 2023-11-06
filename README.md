@@ -37,10 +37,10 @@ npm install
   ```
 
 6. **Start the Development Server:**
-npm start
+npm run dev
 
 7. **Open Your Browser:**
-- The application will be available at [http://localhost:3000](http://localhost:3000).
+- The application will be available at [http://localhost:3000](http://localhost:5173).
 
 ## Usage
 
